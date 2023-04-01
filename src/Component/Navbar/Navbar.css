@@ -1,0 +1,27 @@
+.position-fixed{
+    box-shadow: 0 1px 3px #ddd;
+    top: 0;
+    z-index: 5;
+}
+.links a{
+    font-size: 18px;
+}
+.links a:hover{
+    color: #000;
+}
+
+
+@media (max-width:469px) {
+}
+@media (max-width:768px) {
+}
+@media (max-width:992px) {
+    .btns {
+        margin-top: 15px;
+        width: 100% ;
+        text-align: center;
+    }
+}
+
+@media (max-width:1200) {
+}

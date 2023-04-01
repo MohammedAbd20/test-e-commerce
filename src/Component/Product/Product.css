@@ -1,0 +1,11 @@
+.Skeleton {
+    height: 350px !important;
+    background-color: #dddddd3d !important;
+    border: none !important;
+}
+
+@media (max-width:992px) {
+    .container.py-5 {
+        padding-top: 5rem !important;
+    }
+}
